@@ -1,0 +1,43 @@
+
+.squre{
+height: 250px;
+width: 500px;
+background-color: green;
+display: inline-block;
+
+}
+.circle{
+    height: 150px;
+    width: 150px;
+border-radius: 50%;
+background-color: red;
+margin-bottom: 0px;
+margin-left: 160px;
+margin-top: 50px;
+display: inline-block;
+
+
+}
+.blue{
+    height: 250px;
+    width: 500px;
+    background-color: rgb(109, 150, 227);
+    display: inline-block;
+    
+    
+   
+}
+.white{
+    height:83.33px ;
+    width: 500px;
+    background-color: white;
+    margin-top: 83.33px;
+    display: inline-block;
+    
+}
+.image{
+ margin-left: 220px;
+ margin-top: 11.665px;
+ display: inline-block;
+}
+
